@@ -1,38 +1,47 @@
-.App {
+h1{
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#menu{
+  text-align: center;
+  margin: auto;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#total{
+  text-align: center;
+  margin: auto;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+li{
+  padding: 5px;
+  display:inline;
 }
-
-.App-link {
-  color: #61dafb;
+ul{
+  text-align: center;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+body{
+  text-align: center;
+}
+nav{
+  margin-right: 35px;
+}
+#Cheese-Burger-img{
+  background-image: url("https://cdn2.iconfinder.com/data/icons/food-volume-iii/128/cheeseburger-512.png");
+  height: 50px;
+  width: 50px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+#Hot-Salty-Fries-img{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS49XSfFJpoFMlZ-vD4y-DCf0meQQfNAXNK-5kFMuA_Cm48g_rkZv-Rf8lErUTINclviK8&usqp=CAU");
+  height: 50px;
+  width: 50px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+#Very-Cold-Soda-img{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz5LHSLcqkCQCbLI2SH-kArz0gRawu-J8_dw&usqp=CAU");
+  height: 50px;
+  width: 50px;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
