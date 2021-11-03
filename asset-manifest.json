@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MenuProject/static/css/main.aab3397b.chunk.css",
+    "main.js": "/MenuProject/static/js/main.202d24b1.chunk.js",
+    "main.js.map": "/MenuProject/static/js/main.202d24b1.chunk.js.map",
+    "runtime-main.js": "/MenuProject/static/js/runtime-main.e799b689.js",
+    "runtime-main.js.map": "/MenuProject/static/js/runtime-main.e799b689.js.map",
+    "static/js/2.4c28ab78.chunk.js": "/MenuProject/static/js/2.4c28ab78.chunk.js",
+    "static/js/2.4c28ab78.chunk.js.map": "/MenuProject/static/js/2.4c28ab78.chunk.js.map",
+    "static/js/3.6eba834a.chunk.js": "/MenuProject/static/js/3.6eba834a.chunk.js",
+    "static/js/3.6eba834a.chunk.js.map": "/MenuProject/static/js/3.6eba834a.chunk.js.map",
+    "index.html": "/MenuProject/index.html",
+    "static/css/main.aab3397b.chunk.css.map": "/MenuProject/static/css/main.aab3397b.chunk.css.map",
+    "static/js/2.4c28ab78.chunk.js.LICENSE.txt": "/MenuProject/static/js/2.4c28ab78.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/MenuProject/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e799b689.js",
+    "static/js/2.4c28ab78.chunk.js",
+    "static/css/main.aab3397b.chunk.css",
+    "static/js/main.202d24b1.chunk.js"
+  ]
+}
