@@ -133,17 +133,17 @@ class App extends React.Component {
 
         <main>
 
-          <Route exact path="/">
+          <Route exact path="/MenuProject/">
 
             <MainUi increaseItemQty={this.increaseItemQty} decreaseItemQty={this.decreaseItemQty} handleChange={this.handleChange} menuItems={this.state.menuItems} total={this.state.total} totalQty={this.state.totalQty} joke={this.state.joke} />
 
           </Route>
 
-          <Route path="/about">
+          <Route path="/MenuProject/about">
             <About />
           </Route>
 
-          <Route path="/contact">
+          <Route path="/MenuProject/contact">
             <Contact />
           </Route>
 
